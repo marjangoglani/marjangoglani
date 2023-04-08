@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning webdevelopment to build my own website!
 - 💞️ I’m looking to collaborate on people who are interested in languages and making games
 - 📫 How to reach me: gogla002@umn.edu
-- 🎨 [ArtStation]([url](https://marjangoglani3.artstation.com/resume))
+- 🎨 ArtStation: https://marjangoglani3.artstation.com/resume
 
 <!---
 marjangoglani/marjangoglani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
